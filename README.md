@@ -258,5 +258,3 @@ ISC Copyright (c) 2019, Mapbox [pixelmatch](https://github.com/mapbox/pixelmatch
 [Click to donate on Deskreen's Patreon page](https://patreon.com/deskreen)
 
 [Click to donate on Deskreen's Opencollective page](https://opencollective.com/deskreen)
-
-This is a test
